@@ -1,0 +1,15 @@
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/bin/Debug/net7.0/Connectpay
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/bin/Debug/net7.0/Connectpay.deps.json
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/bin/Debug/net7.0/Connectpay.runtimeconfig.json
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/bin/Debug/net7.0/Connectpay.dll
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/bin/Debug/net7.0/Connectpay.pdb
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.csproj.AssemblyReference.cache
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.AssemblyInfoInputs.cache
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.AssemblyInfo.cs
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.csproj.CoreCompileInputs.cache
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.dll
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/refint/Connectpay.dll
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.pdb
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/Connectpay.genruntimeconfig.cache
+/Users/serkan.yurttapan/RiderProjects/ConsoleApp1/Connectpay/obj/Debug/net7.0/ref/Connectpay.dll
