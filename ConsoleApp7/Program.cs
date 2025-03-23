@@ -28,7 +28,7 @@ static Dictionary<string, int> CountWords(string text)
 
 Hashtable employees = new Hashtable();
 employees.Add("Zara", "8");
-
+employees.Add("Zara2", "18");
 Console.WriteLine(CountWords("Bu bir test metnidir. Bu metin bir test metnidir."));
 
 takeSquare(5);
